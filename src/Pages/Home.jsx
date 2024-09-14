@@ -119,14 +119,18 @@ const Home = () => {
             fontSize: "50px",
             fontWeight: "800",
             display: "flex",
+            color:"yellow",
             justifyContent: "center",
             alignItems: "center",
+            textAlign:"center"
           }}
         >
           {" "}
           Welcome to 
           Ventech Solution 
         </p>
+
+        <p style={{fontWeight:"500",fontSize:"30px"}}> Site is under Development !</p>
     </div>
 
     {showPosters && (
