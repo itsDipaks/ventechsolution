@@ -1,29 +1,18 @@
-import { useState } from "react";
- 
-import "./App.css";
-import Home from "./Pages/Home";
 
-function App() {
+import "./App.css";
+import Footer from "./Components/Footer";
+import Navbar from "./Components/Navbar";
+import Home from "./Pages/Home";
+import CombineRouter from "./Routes/CombineRouter";
  
+function App() {
   return (
     <>
-      {/* <div>
-        <p
-          style={{
-            fontSize: "70px",
-            fontWeight: "500",
-            display: "flex",
-            justifyContent: "center",
-            alignItems: "center",
-          }}
-        >
-          {" "}
-          Welcome to 
-          Ventech Solution 
-        </p>
-      </div> */}
-   <Home/>
+   <Navbar/>
    
+<CombineRouter/>
+   
+{/* <Footer/> */}
     </>
   );
 }
