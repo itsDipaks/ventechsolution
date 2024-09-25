@@ -35,7 +35,7 @@ const Contact = () => {
                 <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
                   PHONE
                 </h2>
-                <p class="leading-relaxed">91 8180060862</p>
+                <p class="leading-relaxed">91 8180060462</p>
               </div>
             </div>
           </div>
