@@ -29,7 +29,7 @@ const Home = () => {
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
           <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">CUSTOMER SATISFACTION</h2>
-          <p class="leading-relaxed">Complete MEP Solutions LLP has carved a niche for itself owing to its credibility and concluded successful projects with several local, global and Fortune 500 companies such as Amazon, Global Logic, Pioneer, Google and Adidas amongst others. We are honoured by the fact that they have been happy to engage with us repeatedly, owing to our developing long-term relations with our clients and partners.</p>
+          <p class="leading-relaxed">Ventech Solution has carved a niche for itself owing to its credibility and concluded successful projects with several local, global and Fortune 500 companies such as Amazon, Global Logic, Pioneer, Google and Adidas amongst others. We are honoured by the fact that they have been happy to engage with us repeatedly, owing to our developing long-term relations with our clients and partners.</p>
         </div>
       </div>
     </div>
@@ -44,7 +44,7 @@ const Home = () => {
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
           <h2 class="font-medium title-font text-gray-900 mb-1 text-xl"> IN-HOUSE STANDARDIZATION </h2>
-          <p class="leading-relaxed">A structured organization, team Complete MEP Solutions LLP has been handpicked over the years to ensure a smoothly functioning machine. In an unorganized industry, we aim for our structure to permeate down to every level of our operations from initiation, planning, execution, monitoring and control to the conclusion of a project. With every stage having a hierarchical team and checklisted functions, our efforts are reflected in every brick laid and foundation set till date.</p>
+          <p class="leading-relaxed">A structured organization, team Ventech Solution has been handpicked over the years to ensure a smoothly functioning machine. In an unorganized industry, we aim for our structure to permeate down to every level of our operations from initiation, planning, execution, monitoring and control to the conclusion of a project. With every stage having a hierarchical team and checklisted functions, our efforts are reflected in every brick laid and foundation set till date.</p>
         </div>
       </div>
     </div>
